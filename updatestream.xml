@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<updates>
+    <update>
+        <name>Xmap - Zoo Plugin</name>
+        <element>com_zoo</element>
+        <type>plugin</type>
+        <client>0</client>
+        <folder>xmap</folder>
+        <version>2.1.2</version>
+        <infourl>https://github.com/z-index-net/joomla-plugin-xmap-zoo</infourl>
+        <downloads>
+            <downloadurl type="full" format="zip">https://github.com/z-index-net/joomla-plugin-xmap-zoo/releases/download/2.1.2/joomla-plugin-xmap-zoo.zip</downloadurl>
+        </downloads>
+        <targetplatform name="joomla" version="^3\."/>
+    </update>
+</updates>
+
